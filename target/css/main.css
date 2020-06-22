@@ -627,6 +627,34 @@ video {
   }
 }
 
+.input-box {
+  margin: 0.5rem;
+  padding: 0.25rem;
+  border-width: 2px;
+  width: 33.333333%
+}
+
+.btn-blue {
+  background-color: #2c5282;
+  color: #fff;
+  margin: 0.5rem;
+  padding: 0.5rem;
+  border-radius: 9999px
+}
+
+.btn-blue:hover {
+  background-color: #4fd1c5
+}
+
+.nav-item {
+  margin: 0.5rem;
+  padding-left: 0.75rem;
+  padding-right: 0.75rem;
+  padding-top: 0.5rem;
+  padding-bottom: 0.5rem;
+  border-width: 2px
+}
+
 .sr-only {
   position: absolute;
   width: 1px;
